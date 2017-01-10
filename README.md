@@ -6,6 +6,8 @@ referenced by http://www.highcharts.com/
 api: http://api.highcharts.com/highstock
 my blog:
 1.trend chart referenced by my blog: http://www.cnblogs.com/friends-wf/p/4480128.html 
+
+
 ![image](trend_chart.png)
 
 
